@@ -1,4 +1,4 @@
-name: OWASP ZAP SCAN GITHUB ACTION
+name: OWASP ZAP SCAN GITHUB ACTION v1
 
 on: [push]
 
